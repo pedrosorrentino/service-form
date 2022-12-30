@@ -10,18 +10,18 @@ Start the development server: `npm run dev` or `yarn dev`
 
 ## Dependencies
 
-next: 13.0.6
-react: 18.2.0
-react-dom: 18.2.0
-react-hook-form: 7.41.0
-zustand: 4.1.5
+- next: 13.0.6
+- react: 18.2.0
+- react-dom: 18.2.0
+- react-hook-form: 7.41.0
+- zustand: 4.1.5
 
 ## Scripts
 
-dev: starts the development server
-build: builds the project for production
-start: starts the production server
-lint: runs ESLint on the project
+- dev: starts the development server
+- build: builds the project for production
+- start: starts the production server
+- lint: runs ESLint on the project
 
 ## License
 
