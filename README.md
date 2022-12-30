@@ -4,7 +4,7 @@ Multi-step form project with Next.js, React and React Hook Form.
 
 To install and use this project, follow these steps:
 
-Clone the repository: `git clone https://github.com/your-username/multistepform.git`
+Clone the repository: `git clone https://github.com/elpelusa/multistepform.git`
 Install dependencies: `npm install` or `yarn install`
 Start the development server: `npm run dev` or `yarn dev`
 
